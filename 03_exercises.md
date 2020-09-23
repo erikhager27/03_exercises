@@ -462,6 +462,7 @@ Registered riders ride more often than casual riders on every day of the week bu
 
   20. Below, provide a link to your GitHub page with this set of Weekly Exercises. Specifically, if the name of the file is 03_exercises.Rmd, provide a link to the 03_exercises.md file, which is the one that will be most readable on GitHub.
 
+  [03_exercises](https://github.com/erikhager27/03_exercises/blob/master/03_exercises.md)
 
 ## Challenge problem! 
 
